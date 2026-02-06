@@ -1,4 +1,4 @@
-# Práctica 2 - API REST Carrito (Spring)
+# Práctica 2 - Creación API REST Carrito 
 
 ## Objetivo
 Diseñar e implementar un servicio web REST siguiendo el estilo request/response sobre HTTP.  
